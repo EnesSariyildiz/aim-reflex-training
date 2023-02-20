@@ -1,0 +1,26 @@
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\bin\Debug\aim-reflex-training-project.exe.config
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\bin\Debug\aim-reflex-training-project.exe
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\bin\Debug\aim-reflex-training-project.pdb
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.csproj.AssemblyReference.cache
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim_reflex_training_project.Form1.resources
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim_reflex_training_project.Properties.Resources.resources
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.csproj.GenerateResource.cache
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.csproj.CoreCompileInputs.cache
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.exe
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.pdb
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim_reflex_training_project.FrmMainPage.resources
+C:\Users\ens_s\Desktop\Software\C# Practices\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim_reflex_training_project.FrmLogin.resources
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\bin\Debug\aim-reflex-training-project.exe.config
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\bin\Debug\aim-reflex-training-project.exe
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\bin\Debug\aim-reflex-training-project.pdb
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.csproj.AssemblyReference.cache
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim_reflex_training_project.Form1.resources
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim_reflex_training_project.FrmLogin.resources
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim_reflex_training_project.FrmMainPage.resources
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim_reflex_training_project.Properties.Resources.resources
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.csproj.GenerateResource.cache
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.csproj.CoreCompileInputs.cache
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.exe
+C:\Users\ens_s\Desktop\Software\Projects\aim-reflex-training-project\aim-reflex-training-project\obj\Debug\aim-reflex-training-project.pdb
